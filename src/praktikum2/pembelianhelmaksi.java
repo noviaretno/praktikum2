@@ -7,6 +7,8 @@ public class pembelianhelmaksi {
         h1.hrgasatuan=300000;
         h1.jmlhpembelian=2;
         
+        h1.cetakInfo();
+        
         
         
     }
