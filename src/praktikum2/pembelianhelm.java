@@ -17,4 +17,7 @@ public class pembelianhelm {
         return total;
     }
     
+    void cetaktotal(){
+        System.out.println("Totalnya = "+totalpembelian());
+    }
 }
