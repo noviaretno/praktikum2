@@ -11,4 +11,10 @@ public class pembelianhelm {
         System.out.println("jumlah pembelian : "+jmlhpembelian);
     }
     
+    int totalpembelian(){
+        int total;
+        total=hrgasatuan*jmlhpembelian;
+        return total;
+    }
+    
 }

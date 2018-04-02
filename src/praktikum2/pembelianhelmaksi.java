@@ -8,6 +8,7 @@ public class pembelianhelmaksi {
         h1.jmlhpembelian=2;
         
         h1.cetakInfo();
+        System.out.println("total pembelian"+h1.totalpembelian());
         
         
         
